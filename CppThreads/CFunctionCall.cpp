@@ -51,6 +51,7 @@ int GoodAdd(int n1, int n2)
 
 int main()
 {
+    /*
     int two = 2; 	// two lives on the satck of main()
     int* addressOfThree = (int*)malloc(sizeof(int));	// p_three lives on the stack of main() and points into the heap
     *addressOfThree = GlobalThree;
@@ -84,6 +85,7 @@ int main()
 
     OverrideTester overrideTester;
     overrideTester.Test();
+    */
 
     ThreadsTester threadsTester;
     threadsTester.Test();
