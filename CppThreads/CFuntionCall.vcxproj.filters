@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CFunctionCall.cpp" />
+    <ClCompile Include="FunctionTester.cpp" />
+    <ClCompile Include="ClassTester.cpp" />
+    <ClCompile Include="LinkedListTester.cpp" />
+    <ClCompile Include="ThreadsTester.cpp" />
+    <ClCompile Include="OverrideTester.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FunctionTester.h" />
+    <ClInclude Include="ClassTester.h" />
+    <ClInclude Include="LinkedListTester.h" />
+    <ClInclude Include="ThreadsTester.h" />
+    <ClInclude Include="OverrideTester.h" />
+  </ItemGroup>
+</Project>
